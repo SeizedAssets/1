@@ -1,0 +1,6 @@
+_iub.csRC = { consApiKey: '1iy0ewzp66m2UtKZypwUg2PRz1lN1UZO', consentDatabasePublicKey: 'UB7XSwhl6SamcxQIfhO0IUtnzAExbw6m' }
+_iub.csEnabled = true;
+_iub.csPurposes = [];
+_iub.csFeatures = {"geolocation_setting":true,"cookie_solution_white_labeling":1,"rejection_recovery":false,"full_customization":true,"multiple_languages":true,"mobile_app_integration":false};
+_iub.csT = null;
+_iub.googleConsentModeV2 = true;
